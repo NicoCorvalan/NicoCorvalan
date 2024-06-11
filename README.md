@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Desarrollador+Web;Desarrollador+Backend;&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">Soy Técnico Superior en Programación con experiencia en proyectos web, en busca de mi primer empleo como desarrollador Java junior o Desarrollador Web, Tengo una sólida formación técnica y estoy preparado para contribuir al desarrollo de soluciones innovadoras</h4>
+<h4 align="center">Soy Técnico Superior en Programación con experiencia en proyectos web, en busca de mi primer empleo como Desarrollador Backend o Desarrollador Web, Tengo una sólida formación técnica y estoy preparado para contribuir al desarrollo de soluciones innovadoras</h4>
 <br>
 
 
