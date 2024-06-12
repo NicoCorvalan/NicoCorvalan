@@ -52,11 +52,6 @@
 
 
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=elanza-48&theme=material-palenight)](https://github.com/Elanza-48)
-</div>
-
-----
-
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
